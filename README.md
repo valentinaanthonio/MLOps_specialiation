@@ -1,1 +1,1 @@
-# MLOps_specialiation
+# MLOps_specialization
